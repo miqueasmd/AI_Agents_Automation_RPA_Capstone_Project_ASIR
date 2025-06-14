@@ -39,7 +39,7 @@ Or watch it on Youtube:
 Please cite as: Molina Delgado, M. (2025). AI Agents & Automation: Complement or Competition for IT Ops?
 
 ## Author & Mentor
-**Miqueas Molina Delgado** — ASIR Student  
+**Author** Miqueas Molina Delgado 
 **Tutor:** Laura Bermúdez Galbarriatu
 
 
