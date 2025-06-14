@@ -30,6 +30,7 @@ This project delivers a theory-driven analysis that helps current and future ASI
 1. Open `ASIR Proyecto fin de grado Miqueas.pdf` for the full paper.
 1. Open `ASIR Capstone Project Miqueas Presentation.pdf` for the slides/presentation.
 3. Watch the video presentation `ASIR Capstone Project Miqueas Video Presentation.mp4`.
+Or watch it on Youtube:
 [![ASIR Capstone Project Video Presentation](https://img.youtube.com/vi/rAezoAt_0X0/0.jpg)](https://www.youtube.com/watch?v=rAezoAt_0X0)
 
 ## Citation & License
