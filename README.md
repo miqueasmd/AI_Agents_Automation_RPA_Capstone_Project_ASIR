@@ -29,7 +29,7 @@ This project delivers a theory-driven analysis that helps current and future ASI
 ## Resources
 1. Open `ASIR Proyecto fin de grado Miqueas.pdf` for the full paper.
 1. Open `ASIR Capstone Project Miqueas Presentation.pdf` for the slides/presentation.
-3. Watch the video presentation "ASIR Capstone Project Miqueas Video Presentation.mp4".
+3. Watch the video presentation `ASIR Capstone Project Miqueas Video Presentation.mp4`.
 
 ## Citation & License
 Please cite as: Molina Delgado, M. (2025). AI Agents & Automation: Complement or Competition for IT Ops?
